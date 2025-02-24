@@ -1,0 +1,7 @@
+JAVASCRIPT OUTLINE
+
+- variables
+- data types
+- conditionals
+- loops
+- Arrays
