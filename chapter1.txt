@@ -1,7 +1,7 @@
-JAVASCRIPT OUTLINE
+FOOTBALL OUTLINE
 
-- variables
-- data types
-- conditionals
-- loops
-- Arrays
+- Goalkeeper
+- Defenders
+- Midfielders
+- Strikers
+- Manager
