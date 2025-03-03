@@ -5,3 +5,5 @@ FOOTBALL OUTLINE
 - Midfielders
 - Strikers
 - Manager
+- Spectators
+- Linesmen
